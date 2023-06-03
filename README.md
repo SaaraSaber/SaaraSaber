@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 Hi 👋 My name is Sara
 ======================
 
@@ -28,5 +25,8 @@ I've been learning Java and Kotlin for about two years. I always try to keep my 
 
 <!--START_SECTION:waka-->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--END_SECTION:waka-->
