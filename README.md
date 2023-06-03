@@ -8,7 +8,7 @@ I've been learning Java and Kotlin for about two years. I always try to keep my 
 
 * ✉️  You can contact me at [saraaasaber77@gmail.com](mailto:saraaasaber77@gmail.com)
 * 🚀  I'm currently working on [Arina](http://arinateam.ir)
-* 🧠  I'm learning Swift and Flutter
+* 🧠  I'm learning Kotlin
 * 🤝  I'm ready to cooperate in your Android projects
 
 ### Skills
