@@ -25,7 +25,6 @@ I've been learning Java and Kotlin for about two years. I always try to keep my 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SaaraSaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sara-saber77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://instagram.com/sara._.saber.77" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sara._.saber.77" height="32" width="32" /></a></p>
 
 <!--START_SECTION:waka-->
 
