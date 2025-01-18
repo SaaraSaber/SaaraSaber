@@ -1,14 +1,12 @@
-Hi 👋 My name is Sara
+### Hey there, I'm  Sara<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ======================
 
-Android Developer
+I'm a Android Developer from Iran.
 -----------------
 
-I've been learning Java and Kotlin for about two years. I always try to keep my knowledge updated and learn new things and languages. I'm interested in the latest technologies in the world and following the news related to programming and technology. Interested in teamwork and sharing knowledge with team members.
+Interested in teamwork and sharing knowledge with team members.
 
 * ✉️  You can contact me at [saraaasaber77@gmail.com](mailto:saraaasaber77@gmail.com)
-* 🚀  I'm currently working on [Arina](http://arinateam.ir)
-* 🧠  I'm learning Kotlin
 * 🤝  I'm ready to cooperate in your Android projects
 
 <!-- ### Skills
