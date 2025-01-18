@@ -22,7 +22,10 @@ Interested in teamwork and sharing knowledge with team members.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SaaraSaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sara-saber77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<!-- 
+<p align="left"> <a href="https://www.github.com/SaaraSaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+-->
+<a href="https://www.linkedin.com/in/sara-saber77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 <!--START_SECTION:waka-->
 
